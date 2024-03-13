@@ -3,7 +3,7 @@
 👋 Hi, I'm Xiaobing Xu!\
 🌱 I'm an MS Applied Data Science student at the University of Chicago.\
 👯 I’m actively learner and looking for 24' summer internship and I'm also interested in GenAI, LLMs, and especially leveraging technology and Data Science to promote mental illness and social goods!\
-📫 Feel free to reach out on [Linkedin](https://www.linkedin.com/in/xiaobing-x-a15a1b195/) or through email at xxiaobing77@gmail.com.\
+📫 Feel free to reach out on [Linkedin](https://www.linkedin.com/in/xiaobing-x-a15a1b195/) or through email at xxiaobing77@gmail.com.
 
 ## 💼 Technical Skills
 - **Languages**: Python(Scikit-learn, Tensorflow), SQL, PySpark, Java, R, JavaScript, Swift
