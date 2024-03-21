@@ -1,6 +1,6 @@
 ### Hi everyone
 
-👋 Hi, I'm Xiaobing Xu!\
+👋 Hi, I'm Amelia(Xiaobing) Xu!\
 🌱 I'm an MS Applied Data Science student at the University of Chicago.\
 👯 I’m actively learner and also interested in GenAI, LLMs, and especially leveraging technology and Data Science to promote mental illness and social goods!\
 📫 Feel free to reach out on [Linkedin](https://www.linkedin.com/in/xiaobing-x-a15a1b195/) or through email at xxiaobing77@gmail.com.
